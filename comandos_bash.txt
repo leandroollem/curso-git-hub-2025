@@ -1,0 +1,17 @@
+comandos git bash
+
+ls = listando todos os arquivos e pastas do diretório onde estou;
+
+cd Desktop/ = muda de diretório onde estou;
+
+pwd = mostra o caminho absoluto  onde estou;
+
+ls -a = mostra arquivos ocultos (arquivos que começa com ponto)
+pasta ponto é a pasta mãe
+pasta ponto ponto é a pasta "acima" da atual;
+
+clear ou CTRL+L = limpa;
+
+mkdir "nome da pasta" = cria um diretório/pasta;
+
+
