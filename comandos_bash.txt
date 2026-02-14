@@ -18,5 +18,6 @@ cat "nome do arquivo" = entra no arquivo;
 
 rm = remove arquivo ou diretório;
 
+nano = programa de texto para criar dentro do terminal
 
 

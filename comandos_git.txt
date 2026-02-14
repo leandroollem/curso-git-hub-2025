@@ -7,3 +7,11 @@ rm -rf .git/ = deleta a pasta .git;
 git status = mostra como esta o diretório;
 
 git add = adiciona aquilo que eu quero que va para o commit;
+
+git config --global user.email "leandro.de.m@outlook.com";
+
+git config --global user.name "Lendro";
+
+git config --global user.name = verificar o nome;
+git config --global user.email = verificar o email;
+git log = vejo todos os logs/"saves";
