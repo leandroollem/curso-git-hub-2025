@@ -1,0 +1,9 @@
+COMANDOS GIT
+
+git init. = tornar a pasta especial, onde podemos ter um repositório de git. Tendo possiilidade de versionar arquivos dentro dela;
+
+rm -rf .git/ = deleta a pasta .git;
+
+git status = mostra como esta o diretório;
+
+git add = adiciona aquilo que eu quero que va para o commit;

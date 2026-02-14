@@ -14,4 +14,9 @@ clear ou CTRL+L = limpa;
 
 mkdir "nome da pasta" = cria um diretório/pasta;
 
+cat "nome do arquivo" = entra no arquivo;
+
+rm = remove arquivo ou diretório;
+
+
 
