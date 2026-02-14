@@ -1,22 +1,22 @@
-comandos git bash
+comandos git                     bash
 
-ls = listando todos os arquivos e pastas do diretório onde estou;
+ls = listando todos os arquivos                e pastas do diretório onde estou;
 
-cd Desktop/ = muda de diretório onde estou;
+cd Desktop/ = muda de dir                   etório onde estou;
 
-pwd = mostra o caminho absoluto  onde estou;
+pwd =        mostra o caminho absoluto  onde estou;
 
 ls -a = mostra arquivos ocultos (arquivos que começa com ponto)
 pasta ponto é a pasta mãe
 pasta ponto ponto é a pasta "acima" da atual;
 
-clear ou CTRL+L = limpa;
+clear ou                  CTRL+L = limpa;
 
 mkdir "nome da pasta" = cria um diretório/pasta;
 
 cat "nome do arquivo" = entra no arquivo;
 
-rm = remove arquivo ou diretório;
+rm = remove arquivo                       ou diretório;
 
 nano = programa de texto para criar dentro do terminal
 
